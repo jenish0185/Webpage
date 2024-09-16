@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.car-panel {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.car-panel img {
+    max-width: 100%;
+}
+
+.car-details {
+    margin-top: 10px;
+}
+
+.car-details h3 {
+    margin: 5px 0;
+}
